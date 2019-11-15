@@ -4,7 +4,7 @@ title: The Florian Project
 description: Realitive Position Tracking for Firefighters
 ---
 # The Project
-To create a tracking system for Firefighters for when they are in a fire that is rapidly deployable and easy to use.
+To create a tracking system for Firefighters for when they are in a fire that is rapidly deployable and easy to use. :)
 
 
 # The Problem
