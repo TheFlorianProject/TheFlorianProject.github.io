@@ -1,5 +1,7 @@
 title: The Florian Project
-description: Realitive Position Tracking for Firefighters 
+description: Realitive Position Tracking for Firefighters
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-target-blank
