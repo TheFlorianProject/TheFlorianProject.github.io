@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Florian Project
-description: Realitive Position Tracking for Firefighters
+description: Relative Position Tracking for Firefighters
 ---
 # The Problem
 
