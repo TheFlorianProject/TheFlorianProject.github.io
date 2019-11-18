@@ -6,7 +6,7 @@ description: This is just another page
 
 # About us!
 
-##Austin
+## Austin
 
 
 ## Brandon
