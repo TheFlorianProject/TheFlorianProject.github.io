@@ -4,7 +4,12 @@ title: About Us
 description: This is just another page
 ---
 
-## About us!
+# About us!
 
-Stuff goes here
+## Brandon
 
+
+## Corbin
+
+
+## Austin
