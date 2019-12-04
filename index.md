@@ -9,4 +9,4 @@ There is currently no way to track the position of a firefighter when in a large
 
 # Our Solution
 
-We seek to create a rapidly deployable tracking system for firefighters to be able to use, so there is no question as to where the firefighters are. Our system uses DWM1001C UWB Tracking Modules to trilateral the position of individual firefighters within a geofenced area.
+We seek to create a rapidly deployable tracking system for firefighters to be able to use, so there is no question as to where the firefighters are. Our system uses Two Way Ranging(TWR) Time-of-Flight(ToF) calculations with DWM1001C UWB Modules to trilateral the position of individual firefighters within a geofenced area. By using UWB and these TWR ToF calculations, we can be accurate within 1 meter, and avoid issues presented by multi-path due to the high bandwidth of UWB technology. 
