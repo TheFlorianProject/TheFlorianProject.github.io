@@ -18,5 +18,6 @@ I am currently an Electrical Engineering student at Sonoma State University and 
 You can view Brandon's Linkedin [here](https://www.linkedin.com/in/brandon-russell/){:target="_blank"}
 
 ## Corbin
+I am currently a senior studying electrical engineering at Sonoma State University. I am a student assistant at Education and Public Outreach (EPO) here on campus helping create stem curriculum for high school students. I am interested in pursuing a career in stem education. I hope to create my own stem curriculum for middle school and high school science teachers.
 
 You can view Corbin's Linkedin [here](https://www.linkedin.com/in/corbin-shatto/){:target="_blank"}
