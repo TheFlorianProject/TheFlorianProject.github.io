@@ -10,4 +10,4 @@ description: Documentation for the project
 
 # View our May Proposal Presentation [here](https://docs.google.com/presentation/d/1BCLWOPTjVVB4QPDniXmE1fha5vrVkxLhNceYJGDyPNU/edit?usp=sharing){:target="_blank"}
 
-# View our Final Demp [here](https://youtu.be/QXEUdYHijbA){:target="_blank"}
+# View our Final Demo [here](https://youtu.be/QXEUdYHijbA){:target="_blank"}
